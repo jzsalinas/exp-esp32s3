@@ -1,0 +1,12 @@
+# build and temp files
+build/
+*.bin
+*.elf
+*.map
+.arduino/
+*.tmp
+*.log
+
+# credenciales sensibles
+secrets.h
+bin/
