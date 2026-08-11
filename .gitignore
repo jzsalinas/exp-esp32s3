@@ -10,3 +10,4 @@ build/
 # credenciales sensibles
 secrets.h
 bin/
+.agents/
